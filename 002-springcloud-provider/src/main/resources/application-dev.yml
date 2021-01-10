@@ -1,0 +1,8 @@
+
+# 端口号
+server:
+  port: 9200
+
+#  项目根路径
+  servlet:
+    context-path: /springcloud
